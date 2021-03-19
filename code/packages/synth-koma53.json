@@ -1,0 +1,626 @@
+{
+    "A3_0": {
+        "note": "A",
+        "octave": "3",
+        "accidental": "",
+        "koma53": 252
+    },
+    "A4_0": {
+        "note": "A",
+        "octave": "4",
+        "accidental": "",
+        "koma53": 305
+    },
+    "A4#4_0": {
+        "note": "A",
+        "octave": "4",
+        "accidental": "sharp",
+        "koma53": 309
+    },
+    "A4#8_0": {
+        "note": "A",
+        "octave": "4",
+        "accidental": "slash-sharp",
+        "koma53": 313
+    },
+    "A4b1_0": {
+        "note": "A",
+        "octave": "4",
+        "accidental": "quarter-flat",
+        "koma53": 304
+    },
+    "A4b1_1": {
+        "note": "A",
+        "octave": "4",
+        "accidental": "half-flat",
+        "koma53": 304
+    },
+    "A4b4_0": {
+        "note": "A",
+        "octave": "4",
+        "accidental": "slash-flat",
+        "koma53": 301
+    },
+    "A4b5_0": {
+        "note": "A",
+        "octave": "4",
+        "accidental": "flat",
+        "koma53": 300
+    },
+    "A5_0": {
+        "note": "A",
+        "octave": "5",
+        "accidental": "",
+        "koma53": 358
+    },
+    "A5#4_0": {
+        "note": "A",
+        "octave": "5",
+        "accidental": "sharp",
+        "koma53": 362
+    },
+    "A5#5_0": {
+        "note": "A",
+        "octave": "5",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 363
+    },
+    "A5b1_0": {
+        "note": "A",
+        "octave": "5",
+        "accidental": "quarter-flat",
+        "koma53": 357
+    },
+    "A5b1_1": {
+        "note": "A",
+        "octave": "5",
+        "accidental": "half-flat",
+        "koma53": 357
+    },
+    "A5b4_0": {
+        "note": "A",
+        "octave": "5",
+        "accidental": "slash-flat",
+        "koma53": 354
+    },
+    "A5b5_0": {
+        "note": "A",
+        "octave": "5",
+        "accidental": "flat",
+        "koma53": 353
+    },
+    "B3_0": {
+        "note": "B",
+        "octave": "3",
+        "accidental": "",
+        "koma53": 261
+    },
+    "B3b1_0": {
+        "note": "B",
+        "octave": "3",
+        "accidental": "quarter-flat",
+        "koma53": 260
+    },
+    "B3b1_1": {
+        "note": "B",
+        "octave": "3",
+        "accidental": "half-flat",
+        "koma53": 260
+    },
+    "B3b5_0": {
+        "note": "B",
+        "octave": "3",
+        "accidental": "flat",
+        "koma53": 256
+    },
+    "B4_0": {
+        "note": "B",
+        "octave": "4",
+        "accidental": "",
+        "koma53": 314
+    },
+    "B4#4_0": {
+        "note": "B",
+        "octave": "4",
+        "accidental": "sharp",
+        "koma53": 318
+    },
+    "B4b1_0": {
+        "note": "B",
+        "octave": "4",
+        "accidental": "quarter-flat",
+        "koma53": 313
+    },
+    "B4b1_1": {
+        "note": "B",
+        "octave": "4",
+        "accidental": "half-flat",
+        "koma53": 313
+    },
+    "B4b4_0": {
+        "note": "B",
+        "octave": "4",
+        "accidental": "slash-flat",
+        "koma53": 310
+    },
+    "B4b5_0": {
+        "note": "B",
+        "octave": "4",
+        "accidental": "flat",
+        "koma53": 309
+    },
+    "B5_0": {
+        "note": "B",
+        "octave": "5",
+        "accidental": "",
+        "koma53": 367
+    },
+    "B5b1_0": {
+        "note": "B",
+        "octave": "5",
+        "accidental": "quarter-flat",
+        "koma53": 366
+    },
+    "B5b1_1": {
+        "note": "B",
+        "octave": "5",
+        "accidental": "half-flat",
+        "koma53": 366
+    },
+    "B5b4_0": {
+        "note": "B",
+        "octave": "5",
+        "accidental": "slash-flat",
+        "koma53": 363
+    },
+    "B5b5_0": {
+        "note": "B",
+        "octave": "5",
+        "accidental": "flat",
+        "koma53": 362
+    },
+    "B6_0": {
+        "note": "B",
+        "octave": "6",
+        "accidental": "",
+        "koma53": 420
+    },
+    "C4_0": {
+        "note": "C",
+        "octave": "4",
+        "accidental": "",
+        "koma53": 265
+    },
+    "C4#4_0": {
+        "note": "C",
+        "octave": "4",
+        "accidental": "sharp",
+        "koma53": 269
+    },
+    "C5_0": {
+        "note": "C",
+        "octave": "5",
+        "accidental": "",
+        "koma53": 318
+    },
+    "C5#4_0": {
+        "note": "C",
+        "octave": "5",
+        "accidental": "sharp",
+        "koma53": 322
+    },
+    "C5#5_0": {
+        "note": "C",
+        "octave": "5",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 323
+    },
+    "C5#8_0": {
+        "note": "C",
+        "octave": "5",
+        "accidental": "slash-sharp",
+        "koma53": 326
+    },
+    "C5b1_0": {
+        "note": "C",
+        "octave": "5",
+        "accidental": "quarter-flat",
+        "koma53": 317
+    },
+    "C5b1_1": {
+        "note": "C",
+        "octave": "5",
+        "accidental": "half-flat",
+        "koma53": 317
+    },
+    "C5b4_0": {
+        "note": "C",
+        "octave": "5",
+        "accidental": "slash-flat",
+        "koma53": 314
+    },
+    "C6_0": {
+        "note": "C",
+        "octave": "6",
+        "accidental": "",
+        "koma53": 371
+    },
+    "C6#4_0": {
+        "note": "C",
+        "octave": "6",
+        "accidental": "sharp",
+        "koma53": 375
+    },
+    "C6#5_0": {
+        "note": "C",
+        "octave": "6",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 376
+    },
+    "C6b4_0": {
+        "note": "C",
+        "octave": "6",
+        "accidental": "slash-flat",
+        "koma53": 368
+    },
+    "C7_0": {
+        "note": "C",
+        "octave": "7",
+        "accidental": "",
+        "koma53": 424
+    },
+    "D4_0": {
+        "note": "D",
+        "octave": "4",
+        "accidental": "",
+        "koma53": 274
+    },
+    "D4#4_0": {
+        "note": "D",
+        "octave": "4",
+        "accidental": "sharp",
+        "koma53": 278
+    },
+    "D5_0": {
+        "note": "D",
+        "octave": "5",
+        "accidental": "",
+        "koma53": 327
+    },
+    "D5#4_0": {
+        "note": "D",
+        "octave": "5",
+        "accidental": "sharp",
+        "koma53": 331
+    },
+    "D5#5_0": {
+        "note": "D",
+        "octave": "5",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 332
+    },
+    "D5b1_0": {
+        "note": "D",
+        "octave": "5",
+        "accidental": "quarter-flat",
+        "koma53": 325
+    },
+    "D5b1_1": {
+        "note": "D",
+        "octave": "5",
+        "accidental": "half-flat",
+        "koma53": 325
+    },
+    "D5b4_0": {
+        "note": "D",
+        "octave": "5",
+        "accidental": "slash-flat",
+        "koma53": 324
+    },
+    "D5b5_0": {
+        "note": "D",
+        "octave": "5",
+        "accidental": "flat",
+        "koma53": 322
+    },
+    "D6_0": {
+        "note": "D",
+        "octave": "6",
+        "accidental": "",
+        "koma53": 380
+    },
+    "D6#4_0": {
+        "note": "D",
+        "octave": "6",
+        "accidental": "sharp",
+        "koma53": 384
+    },
+    "D6b1_0": {
+        "note": "D",
+        "octave": "6",
+        "accidental": "quarter-flat",
+        "koma53": 379
+    },
+    "D6b1_1": {
+        "note": "D",
+        "octave": "6",
+        "accidental": "half-flat",
+        "koma53": 379
+    },
+    "D6b4_0": {
+        "note": "D",
+        "octave": "6",
+        "accidental": "slash-flat",
+        "koma53": 377
+    },
+    "D6b5_0": {
+        "note": "D",
+        "octave": "6",
+        "accidental": "flat",
+        "koma53": 375
+    },
+    "E4_0": {
+        "note": "E",
+        "octave": "4",
+        "accidental": "",
+        "koma53": 283
+    },
+    "E4#4_0": {
+        "note": "E",
+        "octave": "4",
+        "accidental": "sharp",
+        "koma53": 287
+    },
+    "E4#5_0": {
+        "note": "E",
+        "octave": "4",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 288
+    },
+    "E4b1_0": {
+        "note": "E",
+        "octave": "4",
+        "accidental": "quarter-flat",
+        "koma53": 282
+    },
+    "E4b1_1": {
+        "note": "E",
+        "octave": "4",
+        "accidental": "half-flat",
+        "koma53": 282
+    },
+    "E4b4_0": {
+        "note": "E",
+        "octave": "4",
+        "accidental": "slash-flat",
+        "koma53": 279
+    },
+    "E4b5_0": {
+        "note": "E",
+        "octave": "4",
+        "accidental": "flat",
+        "koma53": 278
+    },
+    "E5_0": {
+        "note": "E",
+        "octave": "5",
+        "accidental": "",
+        "koma53": 336
+    },
+    "E5#4_0": {
+        "note": "E",
+        "octave": "5",
+        "accidental": "sharp",
+        "koma53": 340
+    },
+    "E5b1_0": {
+        "note": "E",
+        "octave": "5",
+        "accidental": "quarter-flat",
+        "koma53": 335
+    },
+    "E5b1_1": {
+        "note": "E",
+        "octave": "5",
+        "accidental": "half-flat",
+        "koma53": 335
+    },
+    "E5b4_0": {
+        "note": "E",
+        "octave": "5",
+        "accidental": "slash-flat",
+        "koma53": 332
+    },
+    "E5b5_0": {
+        "note": "E",
+        "octave": "5",
+        "accidental": "flat",
+        "koma53": 331
+    },
+    "E6_0": {
+        "note": "E",
+        "octave": "6",
+        "accidental": "",
+        "koma53": 389
+    },
+    "E6b1_0": {
+        "note": "E",
+        "octave": "6",
+        "accidental": "quarter-flat",
+        "koma53": 388
+    },
+    "E6b1_1": {
+        "note": "E",
+        "octave": "6",
+        "accidental": "half-flat",
+        "koma53": 388
+    },
+    "E6b4_0": {
+        "note": "E",
+        "octave": "6",
+        "accidental": "slash-flat",
+        "koma53": 385
+    },
+    "E6b5_0": {
+        "note": "E",
+        "octave": "6",
+        "accidental": "flat",
+        "koma53": 384
+    },
+    "F4_0": {
+        "note": "F",
+        "octave": "4",
+        "accidental": "",
+        "koma53": 287
+    },
+    "F4#1_0": {
+        "note": "F",
+        "octave": "4",
+        "accidental": "quarter-sharp",
+        "koma53": 288
+    },
+    "F4#4_0": {
+        "note": "F",
+        "octave": "4",
+        "accidental": "sharp",
+        "koma53": 291
+    },
+    "F4#5_0": {
+        "note": "F",
+        "octave": "4",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 292
+    },
+    "F5_0": {
+        "note": "F",
+        "octave": "5",
+        "accidental": "",
+        "koma53": 340
+    },
+    "F5#1_0": {
+        "note": "F",
+        "octave": "5",
+        "accidental": "quarter-sharp",
+        "koma53": 341
+    },
+    "F5#1_1": {
+        "note": "F",
+        "octave": "5",
+        "accidental": "half-sharp",
+        "koma53": 341
+    },
+    "F5#4_0": {
+        "note": "F",
+        "octave": "5",
+        "accidental": "sharp",
+        "koma53": 344
+    },
+    "F5#5_0": {
+        "note": "F",
+        "octave": "5",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 345
+    },
+    "F6_0": {
+        "note": "F",
+        "octave": "6",
+        "accidental": "",
+        "koma53": 393
+    },
+    "F6#4_0": {
+        "note": "F",
+        "octave": "6",
+        "accidental": "sharp",
+        "koma53": 397
+    },
+    "G3_0": {
+        "note": "G",
+        "octave": "3",
+        "accidental": "",
+        "koma53": 243
+    },
+    "G4_0": {
+        "note": "G",
+        "octave": "4",
+        "accidental": "",
+        "koma53": 296
+    },
+    "G4#4_0": {
+        "note": "G",
+        "octave": "4",
+        "accidental": "sharp",
+        "koma53": 300
+    },
+    "G4#5_0": {
+        "note": "G",
+        "octave": "4",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 301
+    },
+    "G4b1_0": {
+        "note": "G",
+        "octave": "4",
+        "accidental": "quarter-flat",
+        "koma53": 295
+    },
+    "G4b1_1": {
+        "note": "G",
+        "octave": "4",
+        "accidental": "half-flat",
+        "koma53": 295
+    },
+    "G4b4_0": {
+        "note": "G",
+        "octave": "4",
+        "accidental": "slash-flat",
+        "koma53": 292
+    },
+    "G5_0": {
+        "note": "G",
+        "octave": "5",
+        "accidental": "",
+        "koma53": 349
+    },
+    "G5#4_0": {
+        "note": "G",
+        "octave": "5",
+        "accidental": "sharp",
+        "koma53": 353
+    },
+    "G5#5_0": {
+        "note": "G",
+        "octave": "5",
+        "accidental": "slash-quarter-sharp",
+        "koma53": 354
+    },
+    "G5b1_0": {
+        "note": "G",
+        "octave": "5",
+        "accidental": "quarter-flat",
+        "koma53": 348
+    },
+    "G5b1_1": {
+        "note": "G",
+        "octave": "5",
+        "accidental": "half-flat",
+        "koma53": 348
+    },
+    "G5b4_0": {
+        "note": "G",
+        "octave": "5",
+        "accidental": "slash-flat",
+        "koma53": 345
+    },
+    "G5b5_0": {
+        "note": "G",
+        "octave": "5",
+        "accidental": "flat",
+        "koma53": 344
+    },
+    "G6_0": {
+        "note": "G",
+        "octave": "6",
+        "accidental": "",
+        "koma53": 402
+    }
+}

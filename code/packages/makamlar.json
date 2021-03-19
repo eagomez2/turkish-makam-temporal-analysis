@@ -1,0 +1,164 @@
+{
+    "acemasiran": {
+        "name": "Acemaşiran",
+        "direction": "descending",
+        "score": "makam_acemasiran.musicxml",
+        "notes": [
+            ["E4", "leading_tone"],
+            ["F4", "root"],
+            ["G4"],
+            ["A4"],
+            ["Bb4"],
+            ["C5", "dominant"],
+            ["D5"],
+            ["E5"],
+            ["F5", "root"]
+        ]
+    },
+    "hicaz": {
+        "name": "Hicaz",
+        "direction": "ascending-descending",
+        "score": "makam_hicaz.musicxml",
+        "notes": [
+            ["G4", "leading_tone"],
+            ["A4", "root"],
+            ["B{slash-flat}4"],
+            ["C#5"],
+            ["D5", "dominant"],
+            ["E5"],
+            ["F#5"],
+            ["G5"],
+            ["A5", "root"]
+        ]
+    },
+    "nihavent": {
+        "name": "Nihavent",
+        "direction": "ascending-descending",
+        "score": "makam_nihavent.musicxml",
+        "notes": [
+            ["F#4", "leading_tone"],
+            ["G4", "root"],
+            ["A4"],
+            ["Bb4"],
+            ["C5"],
+            ["D5", "dominant"],
+            ["Eb5"],
+            ["F5"],
+            ["G5", "root"]
+        ]
+    },
+    "rast": {
+        "name": "Rast",
+        "direction": "ascending",
+        "score": "makam_rast.musicxml",
+        "notes": [
+            ["F#4", "leading_tone"],
+            ["G4", "root"],
+            ["A4"],
+            ["B`4"],
+            ["C5"],
+            ["D5", "dominant"],
+            ["E5"],
+            ["F#5"],
+            ["G5", "root"]
+        ]
+    },
+    "huzzam": {
+        "name": "Hüzzâm",
+        "direction": "ascending-descending",
+        "score": "makam_huzzam.musicxml",
+        "notes": [
+            ["A#4", "leading_tone"],
+            ["B`4", "root"],
+            ["C5"],
+            ["D5", "dominant"],
+            ["E{slash-flat}5"],
+            ["F#5", "dominant"],
+            ["G5"],
+            ["A#5"],
+            ["B`5", "root"]
+        ]
+    },
+    "huseyni": {
+        "name": "Hüseyni",
+        "direction": "ascending-descending",
+        "score": "makam_huseyni.musicxml",
+        "notes": [
+            ["G4", "leading_tone"],
+            ["A4", "root"],
+            ["B`4"],
+            ["C5"],
+            ["D5"],
+            ["E5", "dominant"],
+            ["F#5"],
+            ["G5"],
+            ["A5", "root"]
+        ]
+    },
+    "segah": {
+        "name": "Segâh",
+        "direction": "ascending",
+        "score": "makam_segah.musicxml",
+        "notes": [
+            ["A#4", "leading_tone"],
+            ["B`4", "root"],
+            ["C5"],
+            ["D5", "dominant"],
+            ["E`5"],
+            ["F#5", "dominant"],
+            ["G5"],
+            ["A#5"],
+            ["B`5", "root"]
+        ]
+    },
+    "mahur": {
+        "name": "Mâhur",
+        "direction": "descending",
+        "score": "makam_mahur.musicxml",
+        "notes": [
+            ["F{slash-quarter-sharp}4", "leading_tone"],
+            ["G4", "root"],
+            ["A4"],
+            ["B4"],
+            ["C5"],
+            ["D5", "dominant"],
+            ["E5"],
+            ["F{slash-quarter-sharp}5", "leading_tone"]
+        ]
+    },
+    "saba": {
+        "name": "Sabâ",
+        "direction": "ascending",
+        "score": "makam_saba.musicxml",
+        "notes": [
+            ["G4", "leading_tone"],
+            ["A4", "root"],
+            ["B`4"],
+            ["C5", "dominant"],
+            ["D{slash-flat}5"],
+            ["E`5"],
+            ["F5"],
+            ["G5", "dominant"],
+            ["A{slash-flat}5"],
+            ["B`5"],
+            ["C6"]
+        ]
+    }
+    ,
+    "buselik": {
+        "name": "Bûselik",
+        "direction": "ascending-descending",
+        "score": "makam_buselik.musicxml",
+        "notes": [
+            ["G#4", "leading_tone"],
+            ["A4", "root"],
+            ["B4"],
+            ["C5"],
+            ["D5"],
+            ["E5", "dominant"],
+            ["F5"],
+            ["G5"],
+            ["A5", "root"]
+        ]
+    }
+}

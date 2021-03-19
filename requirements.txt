@@ -1,0 +1,12 @@
+configparser
+music21
+matplotlib
+pandas
+seaborn
+numpy
+scipy
+tqdm
+pickle-mixin
+pprint
+ipython
+jupyter
