@@ -16,7 +16,7 @@ This repository can be used for replicating the results presented in the paper b
 Depending on your setup, some dependencies may be needed. There are collected in the `requirements.txt` file and can be installed by running the following command:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 2. Downloading the dataset
